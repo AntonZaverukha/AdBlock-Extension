@@ -1,0 +1,12 @@
+[
+   {
+     "action": {
+       "type": "ignore-previous-rules"
+     },
+     "trigger": {
+       "url-filter": ".*",
+       "if-domain": ["*"]
+     }
+   }
+ ]
+
