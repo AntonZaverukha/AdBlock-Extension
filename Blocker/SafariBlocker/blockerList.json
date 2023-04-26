@@ -1,0 +1,19 @@
+[
+    {
+      "action": {
+        "type": "block"
+      },
+      "trigger": {
+        "url-filter": ".*instagram\\.com.*"
+      }
+    },
+    {
+      "action": {
+        "type": "css-display-none",
+        "selector": "#masthead-container"
+      },
+      "trigger": {
+        "url-filter": ".*youtube\\.com.*"
+      }
+    }
+  ]
